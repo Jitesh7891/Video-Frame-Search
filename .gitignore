@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Frame extraction output
+extracted_frames/
+
+# Temp video and image files
+temp_video.mp4
+query.jpg
