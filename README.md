@@ -46,8 +46,8 @@ This will start Qdrant and expose it on port 6333.
 - Create and activate a Python virtual environment
 - Install dependencies with pip
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Jitesh7891/Video-Frame-Search
+cd Video-Frame-Search
 
 # Create a virtual environment
 python -m venv venv
